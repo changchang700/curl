@@ -1,0 +1,21 @@
+{
+    "name": "changchang700/curl",
+    "description": "curl for all projects",
+	"keywords": ["curl","YII2 curl"],
+	"homepage": "https://www.alilinet.com",
+	"license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "changchang700",
+            "email": "2107898148@qq.com"
+        }
+    ],
+	"autoload": {
+        "psr-4": {
+            "Component\\Curl\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=5.3"
+    }
+}
